@@ -1,3 +1,42 @@
-theme: jekyll-theme-minimal
-title: Juan Rafael Moreno's Homepage
-description: Bookmark this to keep an eye on my project updates!
+remote_theme: mmistakes/minimal-mistakes
+
+minimal_mistakes_skin: dark
+
+title: Juan Rafael Moreno
+
+name: Juan Rafael Moreno
+
+description: >
+  Cyber Security Graduate specialising in
+  Digital Forensics, Malware Analysis and Security Operations.
+
+logo: "/assets/images/profile.jpg"
+
+search: true
+
+breadcrumbs: true
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+author:
+  name: Juan Rafael Moreno
+  avatar: "/assets/images/profile.jpg"
+  bio: >
+    Cyber Security & Forensic Computing Graduate.
+
+  links:
+    - label: GitHub
+      icon: fab fa-github
+      url: https://github.com/yourusername
+
+    - label: LinkedIn
+      icon: fab fa-linkedin
+      url: https://linkedin.com/in/yourprofile
+
+    - label: Email
+      icon: fas fa-envelope
+      url: mailto:rafael.moreno.cardoso@gmail.com
