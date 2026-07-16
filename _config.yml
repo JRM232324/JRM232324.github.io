@@ -1,42 +1,44 @@
-remote_theme: mmistakes/minimal-mistakes
-
-minimal_mistakes_skin: dark
-
 title: Juan Rafael Moreno
+description: Cyber Security & Digital Forensics Graduate
+url: "https://yourusername.github.io"
+baseurl: ""
 
-name: Juan Rafael Moreno
+theme: minima
 
-description: >
-  Cyber Security Graduate specialising in
-  Digital Forensics, Malware Analysis and Security Operations.
+author:
+  name: Juan Rafael Moreno
+  email: rafael.moreno.cardoso@gmail.com
 
-logo: "/assets/images/profile.jpg"
+github_username: yourusername
+linkedin_username: juanrafaelmoreno
 
-search: true
-
-breadcrumbs: true
+markdown: kramdown
 
 plugins:
-  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-author:
-  name: Juan Rafael Moreno
-  avatar: "/assets/images/profile.jpg"
-  bio: >
-    Cyber Security & Forensic Computing Graduate.
+header_pages:
+  - about.md
+  - projects.md
+  - blog.md
+  - resume.md
 
-  links:
-    - label: GitHub
-      icon: fab fa-github
-      url: https://github.com/yourusername
+collections:
+  projects:
+    output: true
 
-    - label: LinkedIn
-      icon: fab fa-linkedin
-      url: https://linkedin.com/in/yourprofile
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: page
 
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:rafael.moreno.cardoso@gmail.com
+permalink: pretty
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
