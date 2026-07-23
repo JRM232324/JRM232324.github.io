@@ -1,44 +1,19 @@
 ---
 layout: default
-title: "JRM's Homepage"
+title: Home
 ---
 
-# JRM's Portfolio
+# Juan Rafael Moreno
 
-Welcome to my personal portfolio website.
+## Cyber Security & Digital Forensics Graduate
 
-I use this site to showcase my projects, document my development journey, and share updates about what I am building.
+Welcome to my online portfolio.
 
----
+This website showcases my projects, technical research, and professional development in cyber security.
 
-## About Me
+### Explore
 
-Hello! I'm JRM, a developer who enjoys creating projects, learning new technologies, and solving problems through code.
-
-This website is a collection of my work, experiments, and progress.
-
----
-
-## Projects
-
-You can view my completed and ongoing projects here:
-
-[View my portfolio]({{ "/portfolio/" | relative_url }})
-
----
-
-## Latest Updates
-
-I regularly post updates about my projects, learning experiences, and technical discoveries.
-
-[Read my blog posts]({{ "/blog/" | relative_url }})
-
----
-
-## Contact
-
-You can find me here:
-
-- GitHub: [Add your GitHub link]
-- LinkedIn: [Add your LinkedIn link]
-- Email: [Add your email]
+- [About Me]({{ "/about/" | relative_url }})
+- [Portfolio]({{ "/portfolio/" | relative_url }})
+- [Blog]({{ "/blog/" | relative_url }})
+- [Contact]({{ "/contact/" | relative_url }})
