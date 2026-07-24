@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Contact
-permalink: /contact/
+title: Contacts
+permalink: /contacts/
 ---
 
 # Contacts
 
-E-Mail: rafael.moreno.cardoso@gmail.com 
+**E-Mail:** rafael.moreno.cardoso@gmail.com 
 
-Phone Number: +4407716169588
+**Phone Number:** +4407716169588
 
-LinkedIn: https://www.linkedin.com/in/juan-rafael-moreno-67a892316/
+**LinkedIn:** https://www.linkedin.com/in/juan-rafael-moreno-67a892316/
