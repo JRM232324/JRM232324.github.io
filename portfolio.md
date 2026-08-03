@@ -12,47 +12,42 @@ A collection of my projects, experiments, and development work.
 
 ## Projects
 
-### Project Name One
+### Enterprise Ubuntu Home Lab
 
-**Description:**
+The Enterprise Ubuntu Home Lab is a virtualised server that I have built through the use of Ubuntu Server 24.04 LTS within Oracle Virtualbox, this server was created to simulate the deployment and management of small business infrastructure as well as develop practical Linux skills such as system administration, networking, containerisation and automation skills inside of a realistic environment.
 
-A short description of what this project does, why it was created, and what problem it solves.
+This server hosts multiple containerised services through the use of Docker and Docker Compose, these include nginx to carry out web hosting utilities, Grafana and Prometheus for system monitoring ability and ten Portainer for overall container management. Security is then strengthened and emboldened through the use of UFW, Fail2Ban and OpenSSH.
 
 **Technologies used:**
 
-- Technology
-- Framework
-- Tool
+- Ubuntu Server 24.04 LTS
+- Oracle Virtualbox
+- Docker & Docker Compose
+- Nginx
+- Grafana
+- Prometheus
+- Portainer
+- OpenSSH
+- UFW Firewall
+- Fail2Ban
+- Bash
+- Git & Github
+
+**Key skills Demonstrated:**
+
+- Linux System Administration
+- Virtualisation
+- Docker Container Management
+- Web Server Configuration
+- Infrastructure Monitoring
+- Network Configuration
+- Server Security Hardening
+- Bash Scripting & Automation
 
 **Links:**
 
 - [Source Code](#)
 - [Live Demo](#)
-
----
-
-### Project Name Two
-
-**Description:**
-
-A description of the project, including important features, challenges, and what I learned while building it.
-
-**Technologies used:**
-
-- Technology
-- Framework
-- Tool
-
-**Links:**
-
-- [Source Code](#)
-- [Live Demo](#)
-
----
-
-## More Projects Coming Soon
-
-I am continuously working on new projects and will update this page as they are completed.
 
 ---
 
