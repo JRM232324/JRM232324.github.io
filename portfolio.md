@@ -64,10 +64,10 @@ This server hosts multiple containerised services through the use of Docker and 
 
 ### Containers In Use
 
-![Nginx container running]({{ "/Assets/Homelab/Images/homelab/nginxdisplay.png" | relative_url }})
-![Grafana container running]({{ "/Assets/Homelab/Images/homelab/grafanadisplay.png" | relative_url }})
-![Portainer container running]({{ "/Assets/Homelab/Images/homelab/portainerdisplay.png" | relative_url }})
-![Prometheus container running]({{ "/Assets/Homelab/Images/homelab/prometheusdisplay.png" | relative_url }})
+![Nginx container running]({{ "/Assets/Homelab/Images/nginxdisplay.png" | relative_url }})
+![Grafana container running]({{ "/Assets/Homelab/Images/grafanadisplay.png" | relative_url }})
+![Portainer container running]({{ "/Assets/Homelab/Images/portainerdisplay.png" | relative_url }})
+![Prometheus container running]({{ "/Assets/Homelab/Images/prometheusdisplay.png" | relative_url }})
 
 *Docker Containers being accessed through Firefox, displays the ability to access different services within the same server.*
 
