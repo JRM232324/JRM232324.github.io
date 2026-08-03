@@ -44,7 +44,32 @@ This server hosts multiple containerised services through the use of Docker and 
 - Server Security Hardening
 - Bash Scripting & Automation
 
+**Project Screenshots:**
+
+### Virtual Machine Setup
+
+![Ubuntu Server running in Virtualbox, main device connected to it]({{ "/assets/images/homelab/homeandvmdisplay.png" | relative_url }})
+
+*Ubuntu Server 24.04 LTS running inside Oracle VirtualBox as well as a Windows machine connected to it via Ubuntu terminal.*
+
 ---
+
+### Docker Container Deployment
+
+![Docker containers operating]({{ "/assets/images/homelab/dockerdisplay.png" | relative_url }})
+
+*Docker containers running the deployed services.*
+
+---
+
+### Containers In Use
+
+![Nginx container running]({{ "/assets/images/homelab/nginxdisplay.png" | relative_url }})
+![Grafana container running]({{ "/assets/images/homelab/grafanadisplay.png" | relative_url }})
+![Portainer container running]({{ "/assets/images/homelab/portainerdisplay.png" | relative_url }})
+![Prometheus container running]({{ "/assets/images/homelab/prometheusdisplay.png" | relative_url }})
+
+*Docker Containers being accessed through Firefox, displays the ability to access different services within the same server.*
 
 ## Blog
 
