@@ -1,0 +1,67 @@
+/* Portfolio Custom Styling */
+
+/* Main text */
+body {
+    color: #333333;
+}
+
+/* Headings */
+h1,
+h2,
+h3 {
+    color: #7b3fc6;
+}
+
+/* Links */
+a {
+    color: #7b3fc6;
+}
+
+a:hover {
+    color: #b767e6;
+}
+
+/* Sidebar title */
+header h1 a {
+    color: #7b3fc6;
+}
+
+header h1 a:hover {
+    color: #b767e6;
+}
+
+/* Project images */
+section img {
+    border-radius: 8px;
+    max-width: 100%;
+}
+
+/* Code blocks */
+code {
+    background-color: #f2f2f2;
+    color: #333333;
+}
+
+/* Horizontal lines */
+hr {
+    border: 0;
+    border-top: 1px solid #dddddd;
+}
+
+/* Improve spacing around project sections */
+section h2 {
+    margin-top: 35px;
+}
+
+section h3 {
+    margin-top: 25px;
+}
+
+/* Footer */
+footer {
+    color: #777777;
+}
+
+footer a {
+    color: #7b3fc6;
+}
