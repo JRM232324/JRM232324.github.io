@@ -1,11 +1,29 @@
-h1, h2, h3 {
-    color: #293b95 !important;
+/* Main headings */
+section h1,
+section h2,
+section h3 {
+    color: #293b95;
 }
 
+/* Header title */
+header h1 a {
+    color: #293b95;
+}
+
+header h1 a:hover {
+    color: #394dad;
+}
+
+/* All links */
 a {
-    color: #293b95 !important;
+    color: #293b95;
 }
 
 a:hover {
-    color: #394dad !important;
+    color: #394dad;
+}
+
+/* Sidebar links */
+header a {
+    color: #293b95;
 }
