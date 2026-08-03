@@ -16,3 +16,4 @@ This website showcases my projects, technical research, and professional develop
 - [About Me]({{ "/about/" | relative_url }})
 - [Blog]({{ "/blog/" | relative_url }})
 - [Contact]({{ "/contact/" | relative_url }})
+- [Portfolio]({{ "/portfolio/" | relative_url }})
