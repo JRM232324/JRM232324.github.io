@@ -44,11 +44,6 @@ This server hosts multiple containerised services through the use of Docker and 
 - Server Security Hardening
 - Bash Scripting & Automation
 
-**Links:**
-
-- [Source Code](#)
-- [Live Demo](#)
-
 ---
 
 ## Blog
