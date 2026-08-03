@@ -1,11 +1,11 @@
 h1, h2, h3 {
-    color: #293b95;
+    color: #293b95 !important;
 }
 
 a {
-    color: #293b95;
+    color: #293b95 !important;
 }
 
 a:hover {
-    color: #394dad;
+    color: #394dad !important;
 }
