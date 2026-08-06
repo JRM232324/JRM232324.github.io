@@ -16,21 +16,20 @@ A collection of my projects, experiments, and development work.
 
 The Enterprise Ubuntu Home Lab is a virtualised server that I have built through the use of Ubuntu Server 24.04 LTS within Oracle Virtualbox, this server was created to simulate the deployment and management of small business infrastructure as well as develop practical Linux skills such as system administration, networking, containerisation and automation skills inside of a realistic environment.
 
-This server hosts multiple containerised services through the use of Docker and Docker Compose, these include nginx to carry out web hosting utilities, Grafana and Prometheus for system monitoring ability and ten Portainer for overall container management. Security is then strengthened and emboldened through the use of UFW, Fail2Ban and OpenSSH.
+This server hosts multiple containerised services through the use of Docker and Docker Compose, these include nginx to carry out web hosting utilities, Grafana and Prometheus for system monitoring ability and then Portainer for overall container management. Security is then strengthened and emboldened through the use of UFW, Fail2Ban.
 
 **Technologies used:**
 
-- Ubuntu Server 24.04 LTS
+- Windows OS
 - Oracle Virtualbox
+- Ubuntu Server 24.04 LTS
 - Docker & Docker Compose
 - Nginx
 - Grafana
 - Prometheus
 - Portainer
-- OpenSSH
 - UFW Firewall
 - Fail2Ban
-- Bash
 - Git & Github
 
 **Key skills Demonstrated:**
