@@ -30,6 +30,18 @@ Overall, the project consisted of installing and deploying Wazuh through Docker 
 
 **Environment**
 
+The Wazuh Server was deployed using Docker Compose on an Ubuntu server, the environment included:
+
+- Wazuh Manager to process and analyse security events
+- Wazuh Indexer to store and index security data
+- Wazuh Dashboard to provide a web-based interface to analyse events
+- Docker / Docker Compose which was used to deploy and manage the components above
+
+Using the Wazuh Dashboard, it provided an interface that was used to monitor the environment from the server.
+
+![Wazuh Dashboard]({{ "/assets/homelab/images/wazuhmanager/wazuhmanagerweb.png" | relative_url }})
+
+
 ### Enterprise Ubuntu Home Lab
 
 The Enterprise Ubuntu Home Lab is a virtualised server that I have built through the use of Ubuntu Server 24.04 LTS within Oracle Virtualbox, this server was created to simulate the deployment and management of small business infrastructure as well as develop practical Linux skills such as system administration, networking, containerisation and automation skills inside of a realistic environment.
