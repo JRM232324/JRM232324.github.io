@@ -41,6 +41,14 @@ Using the Wazuh Dashboard, it provided an interface that was used to monitor the
 
 ![Wazuh Dashboard]({{ "/assets/homelab/images/wazuhmanager/overview.png" | relative_url }})
 
+**File Integrity Monitoring**
+
+Through the use of Wazuh, the server was able to monitor specific files and directories for changes through the use of the agent. This can be used to identify suspicious activity within the environment, such as unauthorised modifications to system files.
+
+Below I used the agent created within the Wazuh Dashboard to analyze the actions carried out to create, edit then delete a file called wazuh-fim-test.txt
+
+![Wazuh FIM Showcase]({{ "/assets/homelab/images/wazuhmanager/events.png" | relative_url }})
+
 
 ### Enterprise Ubuntu Home Lab
 
