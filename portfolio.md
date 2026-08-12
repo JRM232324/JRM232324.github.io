@@ -9,7 +9,6 @@ permalink: /portfolio/
 A collection of my projects, experiments, and development work.
 
 ---
-** **
 
 ## Projects
 
