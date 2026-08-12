@@ -82,17 +82,15 @@ This server hosts multiple containerised services through the use of Docker and 
 - Server Security Hardening
 - Bash Scripting & Automation
 
-**Project Screenshots:**
+### Project Screenshots:
 
-### Virtual Machine Setup
+**Virtual Machine Setup**
 
 ![Ubuntu Server running in Virtualbox, main device connected to it]({{ "/assets/homelab/images/homeandvmdisplay.png" | relative_url }})
 
 *Ubuntu Server 24.04 LTS running inside Oracle VirtualBox as well as a Windows machine connected to it via Ubuntu terminal.*
 
----
-
-### Docker Container Deployment
+**Docker Container Deployment**
 
 ![Docker containers operating]({{ "/assets/homelab/images/dockerdisplay.png" | relative_url }})
 
