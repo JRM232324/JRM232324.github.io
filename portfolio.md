@@ -39,7 +39,7 @@ The Wazuh Server was deployed using Docker Compose on an Ubuntu server, the envi
 
 Using the Wazuh Dashboard, it provided an interface that was used to monitor the environment from the server.
 
-![Wazuh Dashboard]({{ "/assets/homelab/images/wazuhmanager/wazuhmanagerweb.png" | relative_url }})
+![Wazuh Dashboard]({{ "/assets/homelab/images/wazuhmanager/overview.png" | relative_url }})
 
 
 ### Enterprise Ubuntu Home Lab
