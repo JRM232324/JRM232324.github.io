@@ -49,6 +49,7 @@ Below I used the agent created within the Wazuh Dashboard to analyze the actions
 
 ![Wazuh FIM Showcase]({{ "/assets/homelab/images/wazuhmanager/events.png" | relative_url }})
 
+---
 
 ### Enterprise Ubuntu Home Lab
 
